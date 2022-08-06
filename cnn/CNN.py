@@ -258,3 +258,5 @@ if __name__ == "__main__":
     TRAINING_PATH = "/Users/ruozheng/Documents/DS/title_work_experience.csv"
 
     build_model_and_print_result()
+
+# Thanks
